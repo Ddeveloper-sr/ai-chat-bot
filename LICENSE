@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2026 Clemmies
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+This is the MIT License, one of the most permissive open-source licenses
+available. In short, anyone is free to:
+
+- **Use** this bot's code for any purpose, personal or commercial
+- **Copy** it into their own repository
+- **Modify** it however they like
+- **Host their own instance** of the bot on their own server
+- **Distribute** their own copies or forks
+- **Sell** products or services built on top of it
+
+There are only two conditions attached, both satisfied just by keeping this
+LICENSE file in the repository:
+
+1. Keep the copyright notice and this license text somewhere in the project
+   (e.g. leave this LICENSE file in place, or credit it in a README).
+2. Understand the software comes with **no warranty** — if something breaks
+   when someone runs their own copy, the original author isn't liable for it.
+
+That's it. No royalties, no need to ask permission, no obligation to share
+changes back, and no restriction on running it privately on a personal
+Discord server. Anyone can fork this repo, deploy it under their own bot
+token, and treat it as their own project.
