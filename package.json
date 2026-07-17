@@ -1,0 +1,16 @@
+{
+  "name": "ai-chat-bot",
+  "version": "1.0.0",
+  "description": "Self-hosted Discord AI chat bot using Groq, MongoDB, and Components v2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy-commands": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "groq-sdk": "^0.7.0",
+    "mongoose": "^8.7.0"
+  }
+}
